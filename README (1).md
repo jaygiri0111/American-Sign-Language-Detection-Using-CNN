@@ -1,5 +1,6 @@
 # Machine learning Project 
 ## Ameriacan Sign Language Detection using CNN
+<img src="signs.png" alt="American Sign Language jpeg">
 
 #### Module 1: Data Collection and Preprocessing
 * Collect a large dataset of ASL videos or images
